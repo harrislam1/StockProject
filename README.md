@@ -1,2 +1,2 @@
 # BasicNeuralNetworkStockPrediction
-Bare bones stock prediction model
+Stock prediction stuff
