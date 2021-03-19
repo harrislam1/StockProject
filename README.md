@@ -1,3 +1,3 @@
 # StockProject
-Scraping subreddits for infor
+Scraping subreddits for info.
 Stock prediction using neural network
