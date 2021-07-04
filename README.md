@@ -1,5 +1,6 @@
 # StockProject
-Scraping subreddits for info.
-Stock prediction using neural network.
+1-Scraping subreddits for company ticker information.
+
+2-Stock price prediction using neural network via tensorflow based on historical price using yahoo finance data.
 
 ![alt text](https://github.com/harrislam1/StockProject/blob/main/yolo.png "inspirational image")
